@@ -46,6 +46,7 @@ namespace WpfApplication1
              Thread.Sleep(5000);
             bg.ReportProgress(100);
             bg.CancelAsync();
+            //
         }
 
      
